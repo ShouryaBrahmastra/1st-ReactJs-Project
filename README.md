@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+# Above is the readme that comes with the react module inbuit 
+---
+# About the Project
+### This project is just a simple todoJS application that allows the user to add and delete as well the render pages in the web application.
+##### If you want to use this just pull the code from this repository and run by using "npm start" in the terminal and enjoy.
